@@ -1,1 +1,2 @@
-# snes-soundtracks2
+# snes-soundtracks
+Snes
